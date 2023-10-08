@@ -17,8 +17,8 @@
       <a href="https://www.catraws.com/breed/ragdoll/">資料來源</a>
     </div>
     <style>
-      .char{
-        text_align : center;  
+      .char p{
+        text_align:center;  
       }
       
     </style>
