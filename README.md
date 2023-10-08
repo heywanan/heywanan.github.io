@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lanf="en>
   <head>
-    link rel="stylesheet" href=""
+    <link rel="stylesheet" href="personal_page">
   </head>
   
   <h1>布偶貓</h1>
