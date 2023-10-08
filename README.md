@@ -2,9 +2,7 @@
 
 <body>
   <div class="char">
-  .char{
-    text_align
-  }
+  
   <h1>布偶貓</h1>
     <img src="https://img.alicdn.com/imgextra/i4/2256803919/O1CN01QUlLMg1eowfZPvicQ_!!2256803919-0-daren.jpg">
     <p>布偶貓是家貓的一個品種，擁有柔軟而修長的毛，需要經常梳理、清洗以防止打結。這個品種由美國人安·貝克在1960年代培育出來，因性子溫順、抱起來就好像柔軟的布偶一般而得名。它在原產地美國和英國頗為常見，因為溫順且特別粘人而又在當地得名dog-like cats、Puppy cats或puppy-like cats。<a href="https://zh.wikipedia.org/zh-tw/%E5%B8%83%E5%81%B6%E8%B2%93">維基百科</a></p>
@@ -18,5 +16,10 @@
       </ul>
       <a href="https://www.catraws.com/breed/ragdoll/">資料來源</a>
     </div>
+    <style>
+      .char{
+        text_align
+      }
+    </style>
 </body>
 
