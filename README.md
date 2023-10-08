@@ -18,7 +18,7 @@
     </div>
     <style>
       .char{
-        text-align:center;
+        text_align
       }
     </style>
 </body>
