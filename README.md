@@ -13,10 +13,10 @@
         <li>定期的健康檢查</li>
       </ul>
       <a href="https://www.catraws.com/breed/ragdoll/">資料來源</a>
-  
-    h1, h2, p {
-    text-align: center;
-  }
-  
+      <style>
+        h1{
+          text_align: center;
+        }
+      </style>
 </body>
 
