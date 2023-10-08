@@ -1,13 +1,7 @@
 # heywanan.github.io
 <!DOCTYPE html>
 <html lanf="en>
-  <style>
-    h1 {
-      font-size: 40px;
-      margin-top: 0;
-      margin-bottom: 15px;
-    }
-  </style>
+  
   
   <h1>布偶貓</h1>
   <img src="https://img.alicdn.com/imgextra/i4/2256803919/O1CN01QUlLMg1eowfZPvicQ_!!2256803919-0-daren.jpg">
