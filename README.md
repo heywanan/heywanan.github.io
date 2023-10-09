@@ -1,6 +1,4 @@
 # heywanan.github.io
-
-
 <body>
   <div class="char">
   
